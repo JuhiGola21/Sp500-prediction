@@ -38,5 +38,5 @@ Key insights:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sp500-prediction.git
+git clone https://github.com/JuhiGola21/sp500-prediction.git
 cd sp500-prediction
