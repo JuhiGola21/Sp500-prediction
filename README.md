@@ -1,7 +1,7 @@
 # S&P 500 Stock Price Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 A machine learning project to predict future S&P 500 price movements using historical data and Random Forest classification.
 
